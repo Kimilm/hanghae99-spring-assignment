@@ -7,7 +7,7 @@ plugins {
 sourceCompatibility = 11
 targetCompatibility = 11
 
-group = 'com.kimilm.w2'
+group = 'com.kimilm.expert'
 
 bootJar {
     enabled = false
